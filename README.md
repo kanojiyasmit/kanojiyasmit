@@ -35,8 +35,8 @@ I'm always eager to expand my knowledge in the iOS development space. Currently,
 - Check out my GitHub stats below to see what I've been up to recently! 📊
 
 <div align="center">
-  <a href="https://github.com/kanojiyasmit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanojiyasmit&show_icons=true&include_all_commits=true&hide_border=true" alt="My GitHub Stats" /></a>
-  <a href="https://github.com/kanojiyasmit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanojiyasmit&theme=buefy&hide_border=true" alt="Top Languages" /></a>
+  <a href="https://github.com/kanojiyasmit?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanojiyasmit&show_icons=true&include_all_commits=true&hide_border=true" alt="My GitHub Stats" /></a>
+  <a href="https://github.com/kanojiyasmit?language=swift&tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanojiyasmit&theme=buefy&hide_border=true" alt="Top Languages" /></a>
 </div>
 
 ### 🌐 Connect with Me 
