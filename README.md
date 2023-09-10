@@ -16,7 +16,7 @@ A self-taught passionate iOS developer from India 🇮🇳
 
 I'm well-versed in a variety of technologies and tools relevant to iOS development:
 
-- **Languages:** Swift, Objective-C 
+- **Languages:** Swift, Dart, Objective-C 
 - **Frameworks & Libraries:** SwiftUI, UIKit, Core Data, Combine 
 - **Tools & Software:** Xcode, Git, Cocoapods, Swift Package Manager 
 
